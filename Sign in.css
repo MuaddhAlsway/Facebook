@@ -1,0 +1,136 @@
+.f1{
+    width: 350px;
+    height: 500px;
+        margin-left: 500px;
+    margin-top: 50px;
+    border-radius: 15px;
+}
+.h7{
+    padding-left: 20px;
+    display: inline-block;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 682;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+.h8{
+    padding-left: 5px;
+    position: relative;
+    top: 25px;
+    right: 90px;
+    display: inline-block;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 420;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+.input1{
+    display: inline-block;
+    position: relative;
+    top: 15px;
+    right:5px;
+    margin: 10px;
+    width: 160px;
+    height: 35px;
+    border-radius: 5px;
+    border: none;
+    background: rgb(210, 210, 210);
+}
+.input2{
+    display: inline-block;
+    margin-left: 180px;
+   position: relative;
+  top: -33px;
+  
+    width: 160px;
+    height: 35px;
+    border-radius: 5px;
+    border: none;
+    background: rgb(210, 210, 210);
+}
+.input3{
+    display: inline-block;
+    margin-left: 5px;
+   margin-top: -15px;
+   width: 330px;
+   height: 45px;
+   border: none;
+   background: rgb(210, 210, 210);
+   color: black;
+}
+.input4{
+    display: inline-block;
+    margin-left: 5px;
+    margin-top: 15px;
+    width: 330px;
+    height: 45px;
+    background: rgb(210, 210, 210);
+    border-radius: 5px;
+    border: none;
+
+}
+.input6{
+    margin-top: 25px;
+    margin-left: 100px;
+    background: rgb(0, 180, 0);
+    border: none;
+    border-radius: 10px;
+    color: white;
+    width: 120px;
+    height: 35px;
+}
+.h9{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 420;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+.date{
+    width: 335px;
+    height: 35px;
+    align-items: center;
+}
+.f2{
+    width:75px;
+    height:45px;
+    margin-top: 15px;
+    border-radius: 10px;
+    border: none;
+    background: rgb(210, 210, 210);
+}
+.f3{
+    width:75px;
+    height:45px;
+    margin-left: 120px;
+    margin-top: -60px;
+    border-radius: 10px;
+    border: none;
+    background: rgb(210, 210, 210);
+}
+.f4{
+    width:75px;
+    height:45px;
+    margin-left: 240px;
+    margin-top: -60px;
+    border-radius: 10px;
+    border: none;
+    background: rgb(210, 210, 210);
+}
+.h10{
+    display: inline-block;
+    font-size: 15px;
+    margin-top: 20px;
+  
+}
+.input5{
+    margin-left: 25px;
+position: relative;
+top: -35px;
+left: 25px;
+}
