@@ -37,25 +37,25 @@ This project is a static HTML and CSS implementation of a Facebook-themed websit
 
 ```
 Facebook/
-├── Facebook-image/                         # Directory for images
-├── Facebook log in First page copy.html    # Duplicate login page
-├── Facebook log in First page.html         # Main login page
-├── Facebook log in first page.css          # Stylesheet for the login page
-├── Forgotten password.html                 # Password recovery page
-├── Forgotten password.css                  # Stylesheet for the password recovery page
-├── Market.html                             # Marketplace page
-├── Market.css                              # Stylesheet for the marketplace page
-├── Sign Up.html                            # User registration page
-├── Sign in.css                             # Stylesheet for the sign-in page
-├── User Home page.html                     # User's home/dashboard page
-├── User Home page.css                      # Stylesheet for the user's home page
-├── friends.html                            # Friends list and suggestions page
-├── friends.css                             # Stylesheet for the friends page
-├── resent password.html                    # Password reset page
-├── resent passsword.css                    # Stylesheet for the password reset page
-├── use your account google.html            # Google account sign-in page
-├── use your account google copy.html       # Duplicate Google sign-in page
-└── use your account google.css             # Stylesheet for the Google sign-in page
+├── 📄 Facebook-image/                        # Directory for images
+├── 🎨 Facebook log in First page copy.html   # Duplicate login page
+├── 📄Facebook log in First page.html         # Main login page
+├── 🎨Facebook log in first page.css          # Stylesheet for the login page
+├── 📄Forgotten password.html                 # Password recovery page
+├── 🎨Forgotten password.css                  # Stylesheet for the password recovery page
+├── 📄 Market.html                            # Marketplace page
+├── 🎨Market.css                              # Stylesheet for the marketplace page
+├── 📄Sign Up.html                            # User registration page
+├── 🎨Sign in.css                             # Stylesheet for the sign-in page
+├── 📄User Home page.html                     # User's home/dashboard page
+├── 🎨User Home page.css                      # Stylesheet for the user's home page
+├── 📄friends.html                            # Friends list and suggestions page
+├── 🎨friends.css                             # Stylesheet for the friends page
+├── 📄resent password.html                    # Password reset page
+├── 🎨resent passsword.css                    # Stylesheet for the password reset page
+├── 📄use your account google.html            # Google account sign-in page
+├── 📄use your account google copy.html       # Duplicate Google sign-in page
+└── 🎨use your account google.css             # Stylesheet for the Google sign-in page
 
 ```
 
