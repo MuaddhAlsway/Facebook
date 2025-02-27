@@ -78,3 +78,6 @@ Created by **[Muaddh Alsway]**
 ## 📜 Notes
 For learning purposes only.
 
+ <a href="https://www.linkedin.com/posts/muaddh-alsway_webdevelopment-html-css-activity-7213484548842487808-KNfP?utm_source=share&utm_medium=member_desktop&rcm=ACoAADejAqQBo4IKkDbZQ2uIFfqpjS0OHOJntq8" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
