@@ -30,8 +30,8 @@ This project is a static HTML and CSS implementation of a Facebook-themed websit
 
 ## 🎬 Technology Used
 
-- HTML
-- CSS
+- **HTML**: Page structure.
+- **CSS**: Styling and layout.
 
 ## 📂 Project Structure  
 
