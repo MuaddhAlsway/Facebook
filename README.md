@@ -1,5 +1,7 @@
 # 🚀 *Project Update: Facebook Front-End Study*
 
+<img width="100%" alt="Screenshot 2024-06-28 172127" src="https://github.com/user-attachments/assets/a031ce0f-9dea-4fdc-a230-04d32e001355" />
+
 ## 💡 Overview Report
 
 This project is a static HTML and CSS implementation of a Facebook-themed website. It includes various Facebook-like pages such as the home page, sign-in page, reset password page, store page, friends page, and more. The design is focused on replicating Facebook's UI using only HTML and CSS, without JavaScript or responsiveness.
@@ -57,8 +59,7 @@ Facebook/
 
 ```
 
-## 📸 Screenshots
-<img width="100%" alt="Screenshot 2024-06-28 172127" src="https://github.com/user-attachments/assets/a031ce0f-9dea-4fdc-a230-04d32e001355" />
+
 
 
 
